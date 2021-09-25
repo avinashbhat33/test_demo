@@ -2,4 +2,7 @@ This is a new project
 first commit
 second commit
 final changes done in this project
+<<<<<<< HEAD
 nice project
+=======
+>>>>>>> c78186e7bdf9c559636daf5465817ffd3ed9a38d
